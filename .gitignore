@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+
+# Project specific ignores
+/project_1/node_modules
+/project_1/dist
